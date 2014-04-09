@@ -1,11 +1,8 @@
 {
-  "name": "set-styles",
-  "version": "0.0.0",
+  "name": "airportyh-set-styles",
   "description": "Batch-set CSS properties on an element.",
+  "version": "0.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Toby Ho",
+  "dependencies": {},
   "license": "MIT"
 }
